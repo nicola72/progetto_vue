@@ -1,0 +1,18 @@
+{
+  "categories": [
+    { "id": "1", "name": "Uomo" },
+    { "id": "2", "name": "Donna" },
+    { "id": "3", "name": "Bambino" }
+  ],
+  "products": [
+    { "id": "1", "title": "prodotto 1", "price": 100, "description": "bla blaa", "category_id": 1, "image": "https://image.com/1.jpg" },
+    { "id": "2", "title": "prodotto 2", "price": 200, "description": "bla blaa", "category_id": 2, "image": "https://image.com/2.jpg" },
+    { "id": "3", "title": "prodotto 3", "price": 300, "description": "bla blaa", "category_id": 3, "image": "https://image.com/3.jpg" },
+    { "id": "4", "title": "prodotto 4", "price": 200, "description": "bla blaa", "category_id": 1, "image": "https://image.com/4.jpg" },
+    { "id": "5", "title": "prodotto 5", "price": 150, "description": "bla blaa", "category_id": 2, "image": "https://image.com/5.jpg" },
+    { "id": "6", "title": "prodotto 6", "price": 40, "description": "bla blaa", "category_id": 1, "image": "https://image.com/6.jpg" }
+  ],
+  "cart": [
+    { "id": "1", "name": "prodotto 1", "price": 100, "qty": 1}
+  ]
+}
